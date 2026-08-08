@@ -1,0 +1,17 @@
+{
+  "name": "کافه چایچی - سیستم مدیریت",
+  "short_name": "چایچی",
+  "description": "سیستم مدیریت پرسنل و وظایف کافه چایچی",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#EEF0F2",
+  "theme_color": "#2BADE0",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
